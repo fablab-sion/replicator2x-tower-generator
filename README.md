@@ -4,9 +4,9 @@ Generate gpx file for temperature test with Makerbot Replicator 2x
 
 Prerequisites
 -----------
-Makerbot software in path
-openocd in path
-Python
+- Makerbot software in path
+- openocd in path
+- Python
 
 Usage
 -----------
