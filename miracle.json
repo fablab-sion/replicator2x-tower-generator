@@ -55,7 +55,7 @@
    "extruderProfiles" : [
       {
          "bridgesExtrusionProfile" : "bridges",
-         "feedDiameter" : 1.769999980926514,
+         "feedDiameter" : 1.77,
          "feedstockMultiplier" : 0.9300000000000001,
          "firstLayerExtrusionProfile" : "firstLayer",
          "firstLayerRaftExtrusionProfile" : "firstLayerRaft",
